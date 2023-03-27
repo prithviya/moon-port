@@ -1122,23 +1122,6 @@ section.portfolio .portfolio-items .item .item-content .item-overlay .icons .ico
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.45);
 }
 
-section.portfolio .portfolio-items .item .item-content:hover .item-overlay h6,
-section.portfolio .portfolio-items .item .item-content:hover .item-overlay .icons .icon {
-    -webkit-transform: translateY(0);
-    -ms-transform: translateY(0);
-    transform: translateY(0);
-    opacity: 1;
-}
-
-
-.blogs .owl-carousel .owl-stage-outer {
-    padding: 15px 0;
-}
-
-.blogs .blog-item {
-    -webkit-box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0.1);
-    box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0.1);
-}
 
 .blogs .blog-item .blog-img {
     position: relative;
@@ -1146,7 +1129,6 @@ section.portfolio .portfolio-items .item .item-content:hover .item-overlay .icon
 }
 
 .blogs .blog-item .blog-img img {
-    display: block;
     width: 100%;
     -webkit-transition: all .5s;
     -o-transition: all .5s;
@@ -1154,51 +1136,15 @@ section.portfolio .portfolio-items .item .item-content:hover .item-overlay .icon
 }
 
 .blogs .blog-item .blog-img img:hover {
-    -webkit-transform: scale(1.15);
-    -ms-transform: scale(1.15);
-    transform: scale(1.15);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
 }
 
-.blogs .blog-item .blog-content {
+/* .blogs .blog-item .blog-content {
     padding: 30px 15px 15px;
     background: #fff;
-}
-
-.blogs .blog-item .blog-content h3 {
-    font-size: 20px;
-    font-weight: 600;
-    color: #222;
-    margin-bottom: 15px;
-}
-
-.blogs .blog-item .blog-content p {
-    padding-bottom: 20px;
-    border-bottom: 1px solid #f7f7f7;
-    margin-bottom: 0;
-}
-
-.blogs .blog-item .blog-content .blog-meta {
-    padding-top: 15px;
-}
-
-.blogs .blog-item .blog-content .blog-meta span {
-    font-size: 13px;
-    color: #748182;
-}
-
-.blogs .blog-item .blog-content .blog-meta .more {
-    color: #222;
-    border-bottom: 1px solid #aaa;
-    font-weight: 600;
-}
-
-.blogs .blog-item .blog-content .blog-meta .date {
-    float: right;
-}
-
-.blog-list .blog-item {
-    margin-bottom: 50px;
-}
+} */
 
 
 /*============ 10. Testimonial Section ============*/
