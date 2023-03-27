@@ -1053,7 +1053,7 @@ section.portfolio .portfolio-items .item .item-content:before {
     right: 10px;
     bottom: 10px;
     left: 10px;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(248, 247, 247, 0.068);
     opacity: 0;
     -webkit-transform: scale(0.8);
     -ms-transform: scale(0.8);
