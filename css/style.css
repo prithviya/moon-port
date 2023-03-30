@@ -991,9 +991,10 @@ section.services .service-item:hover .icon {
     border-bottom: 3px solid #fff;
 }
 
-.stats .single-stat h2 {
-    color: #fff;
+.stats .single-stat h5 {
+    color: #fff !important;
     font-weight: 800;
+    padding: 10px;
 }
 
 .stats .single-stat p {
