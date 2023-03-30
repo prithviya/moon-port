@@ -948,12 +948,13 @@ section.services .service-item h4 {
 
 section.services .service-item:hover .icon {
     -webkit-box-shadow: 0 5px 30px #e3e3e3;
-    box-shadow: 0 5px 30px #e3e3e3;
-    border-color: #f2f2f2;
+    box-shadow: 0 5px 30px #1d7da3;
+    border-color:#1d7da3;
 }
-
-
-
+.navbar-brand img
+{
+    max-width: 150px;
+}
 
 .stats {
     -webkit-background-size: cover;
