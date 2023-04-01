@@ -955,6 +955,10 @@ section.services .service-item:hover .icon {
 {
     max-width: 150px;
 }
+.text-white
+{
+    color: white;
+}
 
 .stats {
     -webkit-background-size: cover;
