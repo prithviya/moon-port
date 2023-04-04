@@ -955,6 +955,11 @@ section.services .service-item:hover .icon {
 {
     max-width: 130px;
 }
+.item-content img
+{
+    max-width: 100px;
+    max-height: 100px;
+}
 .text-white
 {
     color: white;
